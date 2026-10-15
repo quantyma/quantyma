@@ -16,3 +16,14 @@ Quantyma is a quantitative firm focused on research, educational content, and qu
 
 Advice:
 - The goal of the Quantyma Capital repository is **skin in the game only**, not raising funds or providing investment advice.  
+
+
+## Know the Author:
+
+<img width="1110" height="436" alt="image" src="https://github.com/user-attachments/assets/41ec2fd8-2681-4e22-83ae-3ef8be57aded" />
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/bpriantti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
